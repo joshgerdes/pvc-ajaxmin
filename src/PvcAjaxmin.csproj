@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="PvcAjaxmin.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SourcemapStreamWriter.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
